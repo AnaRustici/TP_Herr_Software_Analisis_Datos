@@ -15,3 +15,5 @@ Ejercicio 2: Se descargó el archivo, se mostraron las 5 primeras filas, se anal
 
 Ejercicio 3: Se normalizaron fechas, horas, ubicaciones y patentes, se eliminaron filas con valores vacíos y outliers,
 se calcularon los excesos de velocidad y se guardó el dataset limpio en urban_flow/data/interim/speeding_fines.csv.
+
+Ejercicio 4: Se definio la clase FineAnalyzer con metodos para ranking de patentes, ranking de horarios, exceso promedio de velocidad, exceso real promedio de velocidad y conteo de multas por ubicacion.
