@@ -23,3 +23,5 @@ Ejercicio 6: Se calculó el porcentaje de infracción que se produjeron en la fe
 Ejercicio 3: Se normalizaron fechas, horas, ubicaciones y patentes, se eliminaron filas con valores vacíos y outliers, se calcularon los excesos de velocidad y se guardó el dataset en interim.
 
 Ejercicio 5: Se generaron y exportaron graficos de barras, torta y lineas para el analisis exploratorio visual de las multas.
+
+Ejercicio 6: Se calculo el porcentaje de infraccion que se produjeron en la fecha 1932-01-01 y el porcentaje en la hora 00:00.
