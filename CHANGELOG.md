@@ -7,3 +7,5 @@ Ejercicio 3: Se normalizaron fechas, horas, ubicaciones y patentes, se eliminaro
 Ejercicio 4: Se definio la clase FineAnalyzer con metodos para ranking de patentes, ranking de horarios, exceso promedio de velocidad, exceso real promedio de velocidad y conteo de multas por ubicacion.
 
 Ejercicio 5: Se generaron y exportaron graficos de barras, torta y lineas para el analisis exploratorio visual de las multas.
+
+Ejercicio 6: Se calculo el porcentaje de infraccion que se produjeron en la fecha 1932-01-01 y el porcentaje en la hora 00:00.
