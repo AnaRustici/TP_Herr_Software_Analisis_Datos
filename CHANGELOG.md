@@ -13,3 +13,5 @@ Ejercicio 6: Se calculo el porcentaje de infraccion que se produjeron en la fech
 Ejercicio 7: Se redacto la conclusion final sobre el estado del dataset y se anexo al archivo README.md.
 
 Revision Final: Se revisaron todos los ejercicios y se realizaron pequeñas modificaciones siguiendo el enunciado del trabajo integrador.
+
+Ejercicio 2: Se descargó el archivo, se mostraron las 5 primeras filas, se analizaron los tipos de datos y se contaron los valores nulos.
