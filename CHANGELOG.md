@@ -23,3 +23,5 @@ Ejercicio 4: Se definio la clase FineAnalyzer con metodos para ranking de patent
 Ejercicio 5: Se generaron y exportaron graficos de barras, torta y lineas para el analisis exploratorio visual de las multas.
 
 Ejercicio 6: Se calculo el porcentaje de infraccion que se produjeron en la fecha 1932-01-01 y el porcentaje en la hora 00:00.
+
+Ejercicio 7: Se redacto la conclusion final sobre el estado del dataset y se anexo al archivo README.md.
