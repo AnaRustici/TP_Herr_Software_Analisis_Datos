@@ -51,3 +51,6 @@ Revision Final: Se revisaron todos los ejercicios y se realizaron pequeñas modi
 - Implementación de algoritmo de coincidencia posicional (>= 80%).
 - Cruce de datos visuales con el dataset de multas.
 - Guardado del dataset final en la carpeta processed/.
+
+## Sprint 2 - Ejercicio 05
+- Cálculo e impresión de métricas finales del dataset procesado.
