@@ -27,3 +27,10 @@ Ejercicio 6: Se calculo el porcentaje de infraccion que se produjeron en la fech
 Ejercicio 7: Se redacto la conclusion final sobre el estado del dataset y se anexo al archivo README.md.
 
 Revision Final: Se revisaron todos los ejercicios y se realizaron pequeñas modificaciones siguiendo el enunciado del trabajo integrador.
+## Sprint 2 - Ejercicio 01
+- Clonado del repositorio del TP1
+- Cambio a rama Sprint_2 (creada si no existe)
+- Actualización de README para Sprint 2
+- Descarga y descompresión de dataset de imágenes
+- 106 imágenes almacenadas en urban_flow/data/raw/imgs/
+- **Versionado de imágenes con Git (según indicación del profesor)**
