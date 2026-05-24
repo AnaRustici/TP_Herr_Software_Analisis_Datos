@@ -54,3 +54,7 @@ Revision Final: Se revisaron todos los ejercicios y se realizaron pequeñas modi
 
 ## Sprint 2 - Ejercicio 05
 - Cálculo e impresión de métricas finales del dataset procesado.
+
+## Sprint 2 - Ejercicio 06
+- Redacción de la conclusión sobre la arquitectura de datos.
+- Anexo de la conclusión al archivo README.md.
