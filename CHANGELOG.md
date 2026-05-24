@@ -34,3 +34,9 @@ Revision Final: Se revisaron todos los ejercicios y se realizaron pequeñas modi
 - Descarga y descompresión de dataset de imágenes
 - 106 imágenes almacenadas en urban_flow/data/raw/imgs/
 - **Versionado de imágenes con Git (según indicación del profesor)**
+
+## Sprint 2 - Ejercicio 02
+- Listado de imágenes con nombre y tamaño en KB
+- Clasificación en grupos plates (87) y completes (19)
+- Construcción y guardado del diccionario group_images.json
+- Función mostrar_imagenes en grilla 2x4
