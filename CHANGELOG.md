@@ -40,3 +40,8 @@ Revision Final: Se revisaron todos los ejercicios y se realizaron pequeñas modi
 - Clasificación en grupos plates (87) y completes (19)
 - Construcción y guardado del diccionario group_images.json
 - Función mostrar_imagenes en grilla 2x4
+
+## Sprint 2 - Ejercicio 03
+- Conversión a escala de grises de plates y completes.
+- Suavizado (GaussianBlur) aplicado a ambos grupos.
+- Detección de bordes (Canny) aplicado a ambos grupos.
