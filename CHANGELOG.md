@@ -45,3 +45,9 @@ Revision Final: Se revisaron todos los ejercicios y se realizaron pequeñas modi
 - Conversión a escala de grises de plates y completes.
 - Suavizado (GaussianBlur) aplicado a ambos grupos.
 - Detección de bordes (Canny) aplicado a ambos grupos.
+
+## Sprint 2 - Ejercicio 04
+- Extracción OCR optimizada para todo el set de imágenes.
+- Implementación de algoritmo de coincidencia posicional (>= 80%).
+- Cruce de datos visuales con el dataset de multas.
+- Guardado del dataset final en la carpeta processed/.
