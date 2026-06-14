@@ -22,3 +22,9 @@
 - Conversión de tipos: fecha (date), hora (time), velocidad (int)
 - Manejo de evidencia opcional (solo si hay imagen)
 - Vinculación de relaciones inversas
+
+## Sprint 3 - Ejercicio 05
+- Diseño del modelo relacional con SQLAlchemy ORM
+- Creación de modelos VehiculoORM, RadarORM, EvidenciaORM y MultaORM
+- Configuración de relaciones, claves primarias y foráneas
+- Implementación de métodos __repr__ y soporte para type hints en SQLAlchemy 2.0
