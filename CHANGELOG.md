@@ -44,3 +44,12 @@ Se realizaron las siguientes consultas a la base de datos:
 - Radares con mayor volumen de infracciones.
 - Top 10 patentes más reincidentes entre 2020-01-01 y 2020-12-31
 - Estadísticas de Evidencia.
+
+## Sprint 3 - Ejercicio 08
+- Creación de la base de datos vectorial 'patente_vectorial' con ChromaDB.
+- Configuración del modelo base OpenClip para generación de embeddings.
+- Extracción de IDs de vehículos y rutas de imágenes de la base de datos 
+  relacional 'transito.db'.
+- Generación de embeddings para imágenes asociadas a multas con evidencia.
+- Almacenamiento de embeddings, metadatos (ID de vehículo y ruta original de 
+  imagen) y IDs de imagen en la colección 'patente_vectorial'.
