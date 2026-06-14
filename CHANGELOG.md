@@ -57,3 +57,7 @@ Se realizaron las siguientes consultas a la base de datos:
 ## Sprint 3 - Ejercicio 9
 - Creación de la función buscar_patente_imagen que recibe como parámetro una 
   imagen y retorna todos los datos del vehículo.
+
+## Sprint 3 - Ejercicio 10
+- Creación de archivo README.md con objetivos e introducción.
+- Redacción de conclusiones del trabajo de persistencia relacional e híbrida.
