@@ -36,3 +36,11 @@
 - Implementación de cachés para evitar duplicados (vehículos y radares)
 - Manejo de relaciones: vehículo-multa, radar-multa, multa-evidencia
 - Validación de registros insertados (conteo y consistencia)
+
+## Sprint 3 - Ejercicio 07
+Se realizaron las siguientes consultas a la base de datos:
+- Top 10 patentes con mayor cantidad de multas.
+- Top 10 de multas que no poseen evidencia asociada.
+- Radares con mayor volumen de infracciones.
+- Top 10 patentes más reincidentes entre 2020-01-01 y 2020-12-31
+- Estadísticas de Evidencia.
