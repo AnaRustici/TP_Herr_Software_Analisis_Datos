@@ -1,0 +1,6 @@
+outs:
+- md5: 599cc64d3f3037d9659cd10a35576cdd.dir
+  size: 783055
+  nfiles: 87
+  hash: md5
+  path: plates
