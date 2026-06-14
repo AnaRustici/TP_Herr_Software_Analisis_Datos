@@ -53,3 +53,7 @@ Se realizaron las siguientes consultas a la base de datos:
 - Generación de embeddings para imágenes asociadas a multas con evidencia.
 - Almacenamiento de embeddings, metadatos (ID de vehículo y ruta original de 
   imagen) y IDs de imagen en la colección 'patente_vectorial'.
+
+## Sprint 3 - Ejercicio 9
+- Creación de la función buscar_patente_imagen que recibe como parámetro una 
+  imagen y retorna todos los datos del vehículo.
