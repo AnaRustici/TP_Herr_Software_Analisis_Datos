@@ -15,3 +15,10 @@
 - Diseño del modelo lógico de entidades (Vehiculo, Multa, Radar, Evidencia)
 - Definición de relaciones entre entidades
 - Uso de dataclasses para la estructura del modelo
+
+## Sprint 3 - Ejercicio 04
+- Implementación de función procesar_fila_csv()
+- Mapeo de fila CSV a clases Vehiculo, Radar, Evidencia y Multa
+- Conversión de tipos: fecha (date), hora (time), velocidad (int)
+- Manejo de evidencia opcional (solo si hay imagen)
+- Vinculación de relaciones inversas
