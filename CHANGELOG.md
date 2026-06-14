@@ -28,3 +28,11 @@
 - Creación de modelos VehiculoORM, RadarORM, EvidenciaORM y MultaORM
 - Configuración de relaciones, claves primarias y foráneas
 - Implementación de métodos __repr__ y soporte para type hints en SQLAlchemy 2.0
+
+## Sprint 3 - Ejercicio 06
+- Creación de base de datos SQLite (transito.db) con SQLAlchemy
+- Creación automática de tablas desde los modelos ORM
+- Migración de datos desde CSV a la base de datos
+- Implementación de cachés para evitar duplicados (vehículos y radares)
+- Manejo de relaciones: vehículo-multa, radar-multa, multa-evidencia
+- Validación de registros insertados (conteo y consistencia)
