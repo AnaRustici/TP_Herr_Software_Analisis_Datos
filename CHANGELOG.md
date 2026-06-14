@@ -10,3 +10,8 @@
 - Migración de imágenes raw a DVC
 - Migración de CSV procesado a DVC
 - Push de datos al remote DVC
+
+## Sprint 3 - Ejercicio 03
+- Diseño del modelo lógico de entidades (Vehiculo, Multa, Radar, Evidencia)
+- Definición de relaciones entre entidades
+- Uso de dataclasses para la estructura del modelo
